@@ -9,3 +9,7 @@ Inserir seu nome no apelido e responder no seu tempo.
 Receber atividade
 
 https://almeida-cma.github.io/receber/
+
+Responder questionário do forms abaixo. Informar nome completo:
+
+https://forms.gle/Mg8XQ6c5oFhKH8bt5
